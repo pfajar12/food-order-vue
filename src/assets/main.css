@@ -4,3 +4,15 @@
   margin: 0px;
   background-color: #ebebeb;
 }
+
+.form-container {
+  background-color: #fff;
+  padding: 35px 55px;
+  width: 600px;
+  border-radius: 20px;
+}
+
+.login-icon {
+  font-size: 150px;
+  color: #ccc;
+}
